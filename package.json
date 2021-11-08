@@ -1,0 +1,24 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "description": "[![Repo Issues](https://img.shields.io/bitbucket/issues/DesmondDeon/noteTaker.svg)]()   [![Forks](https://img.shields.io/github/forks/DesmondDeon/noteTaker.svg)]()   [![Language](https://img.shields.io/github/languages/top/DesmondDeon/noteTaker.svg)]()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DesmondDeon/noteTaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DesmondDeon/noteTaker/issues"
+  },
+  "homepage": "https://github.com/DesmondDeon/noteTaker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
